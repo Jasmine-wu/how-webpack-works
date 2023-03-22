@@ -3,5 +3,5 @@
 // 默认打包入口：src / index.js
 // 默认打包出口：dist/main.js
 
-let obj = require("./header.js")
+let obj = require("./header.js");
 console.log(obj);
